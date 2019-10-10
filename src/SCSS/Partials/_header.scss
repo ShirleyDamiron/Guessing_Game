@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Rock+Salt&display=swap');
+
+.header { 
+    width: 100%;
+
+    .header-h1 {
+        font-family: 'Rock Salt' , cursive;
+        text-align: center;
+        color: magenta;
+        text-shadow: -2px 2px 0 #000;
+        font-size: 7em;
+    }
+
+    h2 {
+        text-align: center;
+        color: wheat;
+        text-shadow: -2px 2px 0 #000;
+        font-size: 4.5em;
+        font-family: 'Anton' , sans-serif;
+        letter-spacing: 3px;
+    }
+}
